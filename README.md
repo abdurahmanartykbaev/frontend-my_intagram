@@ -4,12 +4,10 @@
 ## Task
 The primary task assigned for this project is to develop a comprehensive social media platform using React. 
 The project comes with specific technical requirements, such as limiting the number of components per file and organizing CSS files associated with components. 
-Additionally, the readme must describe the project, and the .gitignore file should exclude node_modules directory.
-
 
 ## Description
 The project entails the creation of a sophisticated social networking application, providing users with a diverse range of features for seamless interaction and content sharing. 
-From user authentication to profile customization, content creation, and messaging functionalities, the application aims to offer a comprehensive social experience. 
+From user authentication to profile customization, content creation, the application aims to offer a comprehensive social experience. 
 It incorporates features like photo sharing, like, comment to share with friends.
 
 ## Installation
